@@ -1,0 +1,10 @@
+﻿D:\新建文件夹\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj, 我喜欢你.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pa chong .c
+D:\C语言训练  高难度\Project1\pa chong .c(17,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C语言训练  高难度\Project1\pa chong .c(18,14): warning C4305: “=”: 从“double”到“float”截断
+D:\C语言训练  高难度\Project1\pa chong .c(18,33): warning C4305: “-=”: 从“double”到“float”截断
+D:\C语言训练  高难度\Project1\pa chong .c(20,31): warning C4305: “+=”: 从“double”到“float”截断
+D:\C语言训练  高难度\Project1\pa chong .c(66,15): warning C4305: “=”: 从“double”到“float”截断
+D:\C语言训练  高难度\Project1\pa chong .c(66,34): warning C4305: “-=”: 从“double”到“float”截断
+D:\C语言训练  高难度\Project1\pa chong .c(68,32): warning C4305: “+=”: 从“double”到“float”截断
+  Project1.vcxproj -> D:\C语言训练  高难度\Project1\Debug\生日快乐.exe
